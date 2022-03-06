@@ -4,7 +4,7 @@ html{
 
 body{
   font-family: 'Source Code Pro', monospace;
-  background: #212121;
+  background: white;
   color: #52575d;
 }
 
@@ -15,7 +15,7 @@ a{
   color: #ffd369;
 }
 .correct{
-  color: #29bb89;
+  color: #212121;
 }
 .wrong{
   color: #e84545;
